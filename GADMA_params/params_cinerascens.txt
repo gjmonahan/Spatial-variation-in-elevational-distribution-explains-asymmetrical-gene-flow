@@ -1,0 +1,33 @@
+#param file
+Input data: North-South.sfs
+
+#Size of the AFS
+Projections : [8, 8]
+
+# Labels of populations
+Population labels: ['North', 'South']
+
+#Sequence Length
+Sequence length: 441000
+
+#SNPS are unlinked
+Linked SNP's : False 
+
+#Mutation rate
+Mutation Rate: 2.41e-9
+
+#Specifying Engine
+Engine: moments 
+
+#Time Structure
+Initial Structure: 1,1
+
+#Migration Models
+Symmetric migrations: False
+
+#Sudden Change of Population Size
+Only sudden : True
+
+#Specifying Repeats and Processes
+Number of repeats: 10
+Number of processes: 10
