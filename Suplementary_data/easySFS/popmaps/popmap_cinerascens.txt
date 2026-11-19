@@ -1,0 +1,10 @@
+LGEMA13451Synallaxis_cinerascens	North
+LGEMA17991Synallaxis_cinerascens	South
+LGEMA18528Synallaxis_cinerascens	North
+LGEMA18792Synallaxis_cinerascens	North
+LGEMA18812Synallaxis_cinerascens	North
+LGEMA18828Synallaxis_cinerascens	South
+LGEMA18836Synallaxis_cinerascens	South
+LGEMA19534Synallaxis_cinerascens	North
+MPEGT14958Synallaxis_cinerascens	South
+LGEMA18811Synallaxis_cinerascens	North

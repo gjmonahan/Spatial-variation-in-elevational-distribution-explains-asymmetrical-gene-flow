@@ -1,0 +1,12 @@
+LGEMA18391Poospiza_lateralis	North
+LGEMA18393Poospiza_lateralis	North
+LGEMA18395Poospiza_lateralis	North
+LGEMA18399Poospiza_lateralis	North
+LGEMA18410Poospiza_lateralis	North
+LGEMA18421Poospiza_cabanisi	South
+LGEMA18447Poospiza_cabanisi	South
+LGEMA18459Poospiza_cabanisi	South
+LGEMA18470Poospiza_cabanisi	South
+LGEMA18482Poospiza_lateralis	North
+LGEMA18514Poospiza_cabanisi	South
+LGEMA18670Poospiza_cabanisi	South

@@ -1,0 +1,12 @@
+FURB13450Tangara_desmaresti	South
+LGEMA18423Tangara_desmaresti	South
+LGEMA18424Tangara_desmaresti	South
+LGEMA18592Tangara_desmaresti	South
+FURB13928Tangara_desmaresti	South
+LGEMA18755Tangara_desmaresti	North
+LGEMA18764Tangara_desmaresti	North
+LGEMA18781Tangara_desmaresti	North
+LGEMA18784Tangara_desmaresti	North
+LGEMA18807Tangara_desmaresti	North
+LGEMA18816Tangara_desmaresti	North
+LGEMA18873Tangara_desmaresti	North

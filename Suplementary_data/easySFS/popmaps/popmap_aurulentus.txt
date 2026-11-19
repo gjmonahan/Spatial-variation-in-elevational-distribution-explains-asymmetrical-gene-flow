@@ -1,0 +1,12 @@
+LGEMA18608Piculus_aurulentus	North
+LGEMA18743Piculus_aurulentus	North
+LGEMA18752Piculus_aurulentus	North
+LGEMA18760Piculus_aurulentus	North
+LGEMA18763Piculus_aurulentus	North
+LGEMA18773Piculus_aurulentus	North
+LGEMA18805Piculus_aurulentus	South
+LGEMA18810Piculus_aurulentus	North
+LGEMA18851Piculus_aurulentus	South
+LGEMA18852Piculus_aurulentus	South
+MPEGT6553Piculus_aurulentus	South
+PUC4959Piculus_aurulentus	South

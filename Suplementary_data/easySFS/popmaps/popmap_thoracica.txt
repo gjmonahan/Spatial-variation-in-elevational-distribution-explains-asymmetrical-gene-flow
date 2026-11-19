@@ -1,0 +1,15 @@
+LGEMA18872Poospiza_thoracica	North
+LGEMA19552Poospiza_thoracica	North
+LGEMA2428Poospiza_thoracica	North
+PUC1077Poospiza_thoracica	South
+FURB13205Poospiza_thoracica	South
+LGEMA18137Poospiza_thoracica	South
+LGEMA18485Poospiza_thoracica	North
+LGEMA18486Poospiza_thoracica	North
+LGEMA18627Poospiza_thoracica	North
+LGEMA18652Poospiza_thoracica	North	
+LGEMA18680Poospiza_thoracica	South
+LGEMA18801Poospiza_thoracica	North
+LGEMA18863Poospiza_thoracica	South
+MPEGT6536Poospiza_thoracica	South
+PUC1077Poospiza_thoracica	South

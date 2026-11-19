@@ -1,0 +1,14 @@
+LGEMA13417Stephanoxis_lalandi	South
+LGEMA14716Stephanoxis_lalandi	North
+LGEMA14717Stephanoxis_lalandi	North
+LGEMA15754Stephanoxis_lalandi	North
+LGEMA15766Stephanoxis_lalandi	South
+LGEMA15778Stephanoxis_lalandi	South
+LGEMA15780Stephanoxis_lalandi	North
+LGEMA17784Stephanoxis_lalandi	North
+LGEMA18138Stephanoxis_lalandi	North
+LGEMA18142Stephanoxis_lalandi	South
+LGEMA18394Stephanoxis_lalandi	South
+LGEMA18479Stephanoxis_lalandi	North
+LGEMA18483Stephanoxis_lalandi	South
+LGEMA18672Stephanoxis_lalandi	North

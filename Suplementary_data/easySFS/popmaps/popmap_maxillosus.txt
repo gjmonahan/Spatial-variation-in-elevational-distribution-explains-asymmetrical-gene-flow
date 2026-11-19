@@ -1,0 +1,11 @@
+FURB13862Saltator_maxillosus	South
+FURB13885Saltator_maxillosus	South
+LGEMA10381Saltator_maxillosus	South
+LGEMA18775Saltator_maxillosus	North
+LGEMA18776Saltator_maxillosus	North
+LGEMA18814Saltator_maxillosus	North
+LGEMA18826Saltator_maxillosus	South
+LGEMA18827Saltator_maxillosus	South
+LGEMA18859Saltator_maxillosus	South
+LGEMA19540Saltator_maxillosus	North
+LGEMA19543Saltator_maxillosus	North
